@@ -19,6 +19,13 @@ int i=sc.nextInt();
 
  */
 
-class
-TaskB1 {
+import java.util.Scanner;
+
+class TaskB1 {
+    public static void main(String[] args) {
+        System.out.println("Введите любое целое число от 1 до 10");
+        Scanner sc=new Scanner (System.in);
+        int i =sc.nextInt();
+        System.out.println("Вы ввели число"  +  i);
+    }
 }
