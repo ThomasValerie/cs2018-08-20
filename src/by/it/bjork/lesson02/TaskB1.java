@@ -19,5 +19,6 @@ int i=sc.nextInt();
 
  */
 
-class TaskB1 {
+class
+TaskB1 {
 }
